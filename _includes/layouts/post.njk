@@ -4,6 +4,7 @@ section: post
 ---
 
 <article>
+<div class="post-header-outer">
 <div class="post-header" style="background-image: url({{ coverImage }});"></div>
 <div class="overlay"></div>
 <div class="entries">
@@ -16,6 +17,10 @@ section: post
   </time>
 </div>
 </div>
+</div>
+<div class="article-inner">
+
+
   {{ layoutContent | safe }}
 
   {% if tags %}
@@ -28,9 +33,8 @@ section: post
     {% endfor %}
     </p>
   {% endif %}
-
+  <nav>
+    <a href="{{ '/blog/' | url }}">← Blog index</a>
+  </nav>
+</div>
 </article>
-
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>

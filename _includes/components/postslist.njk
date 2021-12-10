@@ -1,6 +1,9 @@
 <section>
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
+		<div class="article-inner">
+
+
 			<h3>
 				<a href="{{ post.url | url }}">
 					{% if post.data.title %}
@@ -34,6 +37,7 @@
 			{% if post.data.slug %}
 				<p class="slug">{{ post.data.slug }} <br/> <a href="{{ post.url | url }}">Read More</a></p>
 			{% endif %}
+					</div>
 		</article>
 	{% endfor %}
 </section>

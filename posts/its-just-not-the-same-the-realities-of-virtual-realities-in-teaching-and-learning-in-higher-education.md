@@ -7,6 +7,7 @@ tags:
   - innovation
   - VR
 coverImage: /images/Broomhall_tinyplanet.jpg
+slug: When we first proposed to colleagues that we could use virtual reality in our higher education teaching, it is fair to say there was some healthy scepticism. Some colleagues had early experiences of VR headsets and worried about feeling sick. Others couldn’t see how it might relate to their work.
 ---
 
 When we first proposed to colleagues that we could use virtual reality in our higher education teaching, it is fair to say there was some healthy scepticism. Some colleagues had early experiences of VR headsets and worried about feeling sick. Others couldn’t see how it might relate to their work.

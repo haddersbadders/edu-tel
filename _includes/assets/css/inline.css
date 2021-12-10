@@ -24,10 +24,16 @@ body {
 	overflow-x: hidden;
 }
 
-main {
+article {
+/* margin-top: 1em; */
+}
+
+.article-inner {
 	max-width: 60rem;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 4rem auto;
+	border-bottom: 1px solid #cfcfcf;
+	margin-bottom: 1em;
+	padding-bottom: 1em;
 }
 
 p,
@@ -51,7 +57,7 @@ img {
 }
 
 header,
-main,
+/* main, */
 footer {
 	padding: 1em;
 }
@@ -62,7 +68,7 @@ main {
 
 main :first-child,
 main > article :first-child {
-	margin-top: 0;
+	/* margin-top: 0; */
 }
 
 pre {
@@ -124,9 +130,9 @@ header nav li a[data-current="current item"] {
 
 /* Posts List */
 article {
-	margin-bottom: 1em;
-	padding-bottom: 1em;
-	border-bottom: 1px solid #6d6d6d;
+	/* margin-bottom: 1em;
+	padding-bottom: 1em; */
+	/* border-bottom: 1px solid #6d6d6d; */
 
 }
 
@@ -228,11 +234,17 @@ margin: 0 auto;
 text-align: center;
 padding: 1em;
 }
-
+article p {
+	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-size: 1.3rem;
+}
+article h2 {
+	font-size: 3rem;
+}
 p.slug {
 max-width: 60%;
 margin: 1em auto;
-font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+
 font-size: 1.3rem;
 }
 
@@ -254,20 +266,20 @@ header {
 }
 
 header.site-header {
-	position: absolute;
+	/* position: absolute;
 	top: 0;
 	left: 0;
 	width: 100vw;
-	z-index: 5;
+	z-index: 5; */
 	height: 8rem;
 }
 .entries {
 	z-index: 10;
 	    position: relative;
-	    margin-top: 40vh;
+	    padding-top: 40vh;
 	    text-align: center;
 	    color: #fff;
-	    height: 60vh;
+	    height: 100vh;
 			font-size: 1.4em;
 }
 .entries a {
@@ -293,9 +305,20 @@ h1.post-title {
 }
 
 main {
-	margin-top: 8rem;
+	/* margin-top: 8rem; */
 }
 
 .video_container {
 	position: relative;
+}
+
+.post-header-outer {
+    position: relative;
+}
+
+footer {
+    height: 6rem;
+    text-align: center;
+    padding: 2rem;
+
 }
