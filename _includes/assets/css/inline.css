@@ -44,11 +44,12 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: var(--accent);
 }
 
 a[href]:not(:hover) {
 	text-decoration: none;
+
 }
 
 img {
@@ -321,4 +322,11 @@ footer {
     text-align: center;
     padding: 2rem;
 
+}
+figure.left {
+	width: 150px;
+	float: left;
+}
+figure.rounded img {
+	border-radius: 50% 50%;
 }

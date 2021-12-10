@@ -6,6 +6,13 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+
+<figure class="rounded left">
+
+![Hadrian Cawthorne, Learning Technologist at the University of Sheffield](/images/hadrian.jpg)
+
+</figure>
+
 Hello there!
 
-This site is 
+I'm Hadrian, and this is a site for me to put posts about some of the work I do.
