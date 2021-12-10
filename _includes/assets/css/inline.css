@@ -1,7 +1,8 @@
 :root {
-	--primary: blue;
+	--primary: black;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #F5EFE0;
+	--accent: #8d2c46;
 }
 
 *, *:before, *:after {
@@ -20,10 +21,13 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	overflow-x: hidden;
 }
 
 main {
-	max-width: 37.5em;
+	max-width: 60rem;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 p,
@@ -79,6 +83,9 @@ pre {
 }
 
 /* Header Logo (style as h2) */
+header, footer {
+	background: white;
+}
 header > em {
 	display: block;
 	font-size: 2em;
@@ -119,12 +126,12 @@ header nav li a[data-current="current item"] {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--secondary);
+	border-bottom: 1px solid #6d6d6d;
+
 }
 
 main > section > article > * {
-	margin-top: 0;
+
 	margin-bottom: .5em;
 }
 
@@ -141,7 +148,7 @@ a[rel="tag"]:visited {
 	height: 2em;
   border: 1px solid var(--secondary);
 	background-color: var(--secondary);
-	color: var(--primary);
+	color: var(--accent);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
@@ -193,4 +200,102 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+/* more stuff */
+
+article h3, h1.post-title {
+	font-size: 4rem;
+    text-align: center;
+    line-height: 4.3rem;
+}
+
+figure.featured_image {
+max-width: 90%;
+margin: 0 auto;
+}
+
+.post-meta, .post-meta a {
+	text-align: center;
+	color: #6d6d6d !important;
+}
+
+.post-meta svg * {
+	fill: #6d6d6d;
+}
+
+.post-tags {
+text-align: center;
+padding: 1em;
+}
+
+p.slug {
+max-width: 60%;
+margin: 1em auto;
+font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+font-size: 1.3rem;
+}
+
+header {
+
+	padding: 0 20rem;
+}
+
+.post-header {
+	position: absolute;
+	    top: 0;
+	    left: 0;
+	    width: 100vw;
+	    height: 100vh;
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			background-size: cover;
+			z-index: 0;
+}
+
+header.site-header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	z-index: 5;
+	height: 8rem;
+}
+.entries {
+	z-index: 10;
+	    position: relative;
+	    margin-top: 40vh;
+	    text-align: center;
+	    color: #fff;
+	    height: 60vh;
+			font-size: 1.4em;
+}
+.entries a {
+	color: #fff;
+}
+
+.entries svg * {
+	fill: #fff;
+}
+.overlay {
+	z-index: 2;
+	background: var(--accent);
+	opacity: 0.8;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+h1.post-title {
+	font-size: 4.4rem;
+}
+
+main {
+	margin-top: 8rem;
+}
+
+.video_container {
+	position: relative;
 }
