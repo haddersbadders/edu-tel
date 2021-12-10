@@ -29,6 +29,9 @@ It’s important to say that we did all of the filming in about two hours with o
 
 It was so lovely to see a group of colleagues and be out and about and we were quite relaxed about what footage we managed to capture. Maybe if we were doing the same exercise now we would plan it shot by shot, but personally I liked the chance to be spontaneous. We walked around and talked about the ‘secret’ gardens, Tramlines, the library and the large painted ‘No Pasaran’ graffiti on the old toilets and this, of course, led to reminiscences and recollections about childhood which in turn gave us ideas for ways we could use the resources.
 
+<iframe src="https://haddersbadders.github.io/Park_VR_App/gardenpagoda.html" border="0" width="640px" height="480px">
+</iframe>
+
 _Above: The secret garden_
 
 For hosting the images this time, we [used Google Photos](https://photos.app.goo.gl/HdYWjcnPy2YDfVEe6) which enabled the students to look at the images from many perspectives and then comment on them. It’s not as curated as the more interactive platforms but it means you can quite quickly create a digital resource which is simple to access and also duplicate for different purposes. Aneesh used the 360 film and images to encourage students to reflect on theories around childhood and space, the idea of the child in nature, and how digital technologies can bring us to those spaces in new and different ways through 360° and immersive technology:
