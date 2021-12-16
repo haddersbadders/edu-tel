@@ -1,6 +1,6 @@
 ---
 title: Tools for Making Videos
-date: 2020-09-11T00:00:00.000Z
+date: 2020-09-11
 author: Hadrian Cawthorne
 tags:
   - encore

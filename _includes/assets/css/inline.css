@@ -334,3 +334,7 @@ figure.left {
 figure.rounded img {
 	border-radius: 50% 50%;
 }
+
+.centre {
+	text-align: center;
+}
