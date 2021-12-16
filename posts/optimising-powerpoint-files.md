@@ -32,7 +32,7 @@ On **Windows** (assuming you have PowerPoint as part of Office 365)
 2. Go to the Picture Format section of the toolbar
 3. Choose **Compress Pictures**
 
-[![the picture format bar](images/2021-04-29-14_07_58-Presentation1-PowerPoint-edited.png)](https://edu-tel.group.shef.ac.uk/wp-content/uploads/2021/04/2021-04-29-14_07_58-Presentation1-PowerPoint-edited.png)
+[![the picture format bar](/images/2021-04-29-14_07_58-Presentation1-PowerPoint-edited.png)]
 
 In the dialogue box:
 
@@ -40,12 +40,12 @@ In the dialogue box:
 - Keep **Delete cropped areas** ticked
 - Choose **E-mail** as the resolution
 
-[![](images/2021-04-29-14_38_21-Presentation1-PowerPoint.png)](https://edu-tel.group.shef.ac.uk/wp-content/uploads/2021/04/2021-04-29-14_38_21-Presentation1-PowerPoint.png)
+[![In the dialogue box](/images/2021-04-29-14_38_21-Presentation1-PowerPoint.png)]
 
 On a Mac, simply go to the File menu and choose Compress Pictures:
 
-[![](images/Screenshot-2021-04-29-at-14.19.40-240x300.png)](https://edu-tel.group.shef.ac.uk/wp-content/uploads/2021/04/Screenshot-2021-04-29-at-14.19.40.png)
+[![the File menu and choose Compress Pictures](/images/Screenshot-2021-04-29-at-14.19.40-240x300.png)]
 
 And choose the same settings as below:
 
-![](images/Screenshot-2021-04-29-at-14.19.54.png)
+![choose the same settings](/images/Screenshot-2021-04-29-at-14.19.54.png)
