@@ -16,8 +16,6 @@ renderData:
 
 <section>
 
-
-
 	{% for post in collections.authors[author] | reverse %}
 		<article{% if post.page.url == url %} data-current="current item"{% endif %}>
     <div class="article-inner">
