@@ -5,7 +5,7 @@ author: Hadrian Cawthorne
 tags:
   - blended-learning
   - tips
-coverImage: images/press-1332506_1280.jpg
+coverImage: /images/press-1332506_1280.jpg
 slug: If you use images and other media in your PowerPoints, they can grow quite large. This post will show you how to optimise your PowerPoint files.
 ---
 
