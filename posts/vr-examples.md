@@ -3,7 +3,7 @@ title: Virtual Reality in Education
 date: 2020-08-13T00:00:00.000Z
 tags:
   - vr
-coverImage: images/augmented-reality-3468596_1920.jpg
+coverImage: /images/augmented-reality-3468596_1920.jpg
 slug: In the School of Education, we've started to explore the use of Virtual Reality (VR) in teaching and learning. Here are some examples.
 ---
 
@@ -43,16 +43,18 @@ The Chemistry Department have also used Round.me and produced a virtual [Chemist
 
 ## Exploring VR for Teaching and Learning
 
-[![A "Tiny Planet" image of Broomhall School](images/Broomhall_tinyplanet-1024x507.jpg)](https://edu-tel.group.shef.ac.uk/wp-content/uploads/2020/08/Broomhall_tinyplanet.jpg)
+<figure>
 
-A "Tiny Planet" image of Broomhall School
+![A "Tiny Planet" image of Broomhall School](/images/Broomhall_tinyplanet-1024x507.jpg)
+
+<figcaption>A "Tiny Planet" image of Broomhall School </figcaption></figure>
 
 We are working on projects at the moment, but the first completed project was in collaboration with [Dr. Liz Chesworth](https://www.sheffield.ac.uk/education/people/academic/liz-chesworth), Lecturer in Early Childhood Education and Broomhall Nursery School & Children's Centre in Sheffield.
 
 For this project, I took a series of "Child's-eye-view" pictures of the inside one of the classrooms at Broomhall School. The images showed how an early-years classroom could be setup for learning using a variety of activities. Many thanks to Bethany, a teacher at Broomhall, for setting up the classroom so well!
 
-I then created a virtual tour of the classroom using [Google Poly's Tour Creator](https://arvr.google.com/tourcreator/). Liz and I added scene descriptions and hot-spots at points-of-interest with questions to prompt students viewing the tour to think about how and why the room layout had been designed that way.
+I then created a virtual tour of the classroom using Google Poly's Tour Creator (this has now closed down!). Liz and I added scene descriptions and hot-spots at points-of-interest with questions to prompt students viewing the tour to think about how and why the room layout had been designed that way.
 
-You can view the tour here:
+You can view the tour, re-made on Roundme, here:
 
-<iframe width="100%" height="480px" src="https://poly.google.com/view/5ZdcSo4hH4e/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<iframe width='640' height='360' src='https://roundme.com/embed/527230/1797188' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

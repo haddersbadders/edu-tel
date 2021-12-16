@@ -235,7 +235,7 @@ margin: 0 auto;
 text-align: center;
 padding: 1em;
 }
-article p {
+article p, article ol, article ul {
 	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
 	font-size: 1.3rem;
 }
@@ -254,12 +254,16 @@ header {
 	padding: 0 20rem;
 }
 
+header.site-header a, header.site-header a:visited  {
+
+color: black;
+}
 .post-header {
 	position: absolute;
 	    top: 0;
 	    left: 0;
 	    width: 100vw;
-	    height: 100vh;
+	    height: 90vh;
 			background-attachment: fixed;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -298,7 +302,7 @@ header.site-header {
 	top: 0;
 	left: 0;
 	width: 100vw;
-	height: 100vh;
+	height: 90vh;
 }
 
 h1.post-title {

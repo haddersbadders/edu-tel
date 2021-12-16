@@ -92,7 +92,7 @@ Interviewing someone is a really good way to tap into their knowledge and expert
 
 While we're socially distancing, it's still easy to conduct an interview online. **Google Meet** is an excellent tool for conducting meetings online and recording them. You'll find the record button in the menu like this:
 
-![The record button in Meet.](images/2020-09-09-16_35_19-Window.png)
+![The record button in Meet.](/images/2020-09-09-16_35_19-Window.png)
 
 When you've finished recording, you'll get an email giving you the location for the video file in Google Drive. You can download this and re-upload to Kaltura.
 
@@ -112,10 +112,10 @@ Next, have a look at the different systems available and what kinds of things yo
 
 Here's a selection of options:
 
-[Powtoon](https://www.powtoon.com/) - this is an online animation app. There is a free version, but this has some limitations e.g. water-marking, 3 minute HD limit, limited library of images. Powtoon lets you mix together characters, images and audio to build simple animations.
+- [Powtoon](https://www.powtoon.com/) is an online animation app. There is a free version, but this has some limitations e.g. water-marking, 3 minute HD limit, limited library of images. Powtoon lets you mix together characters, images and audio to build simple animations.
 
-[Biteable](https://biteable.com/) \- this is another online animation app. I haven't tried this yet, but it shows you what you can find by Googling!
+- [Biteable](https://biteable.com/) is another online animation app. I haven't tried this yet, but it shows you what you can find by Googling!
 
-[Adobe Spark Video](https://spark.adobe.com/sp/) \- This is more for creating multimedia slide-based videos. It's very easy-to-use and videos are stylistic. It works online and on iPad.
+- [Adobe Spark Video](https://spark.adobe.com/sp/) is more for creating multimedia slide-based videos. It's very easy-to-use and videos are stylistic. It works online and on iPad.
 
-[Adobe Character Animator](https://www.adobe.com/uk/products/character-animator.html) - part of the Adobe CC suite, Character animator lets you animate and voice "puppets" in real time using your webcam.
+- [Adobe Character Animator](https://www.adobe.com/uk/products/character-animator.html) is part of the Adobe CC suite, Character animator lets you animate and voice "puppets" in real time using your webcam.

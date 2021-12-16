@@ -6,7 +6,7 @@ tags:
   - blackboard
   - video
   - kaltura
-coverImage: images/2020-08-19-14_41_24-Content.png
+coverImage: /images/2020-08-19-14_41_24-Content.png
 alt: an embedded video in Blackboard
 slug: If you've created and uploaded video to Kaltura, it's really easy to embed it into your Blackboard Content.
 ---
