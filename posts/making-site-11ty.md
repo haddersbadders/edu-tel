@@ -1,9 +1,12 @@
 ---
 title: Making a static site using 11ty
+date: 2021-12-17
 slug: This is how I made a site using the static website framework, Eleventy (or 11ty!)
 tags:
   - web development
 coverImage: /images/angry-g90bfc6ecb_1280.jpg
+author: Hadrian Cawthorne
+authorImage: /images/hadrian.jpg
 ---
 This site you're reading right now was originally a WordPress site. I had to give up the hosting of the WordPress site and find an alternative.
 
@@ -35,4 +38,4 @@ I won't go into Node.js (because I don't really understand it enough to explain)
 
 I was helped along the way by following [this excellent tutorial](https://learneleventyfromscratch.com/) (there are more on the 11ty website) where I created a simple site from scratch, then modified this [Eleventy boilerplate site](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) (also available off the 11ty site)- modding the template files and CSS.
 
-You can look at [the code for this site on Github](https://github.com/haddersbadders/edu-tel). 
+You can look at [the code for this site on Github](https://github.com/haddersbadders/edu-tel).

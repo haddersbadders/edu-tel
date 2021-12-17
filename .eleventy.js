@@ -37,6 +37,11 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
+  eleventyConfig.addFilter("getAuthor", (authors,label) => {
+	let author = authors.filter(a => a.key === label)[0];
+	return author;
+});
+
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
