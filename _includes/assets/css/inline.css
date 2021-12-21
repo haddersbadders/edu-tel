@@ -3,6 +3,7 @@
 	--secondary: white;
 	--background: #F5EFE0;
 	--accent: #8d2c46;
+	--accentfade: rgba(141,44,70,.5);
 }
 
 *, *:before, *:after {
@@ -337,4 +338,45 @@ figure.rounded img {
 
 .centre {
 	text-align: center;
+}
+
+.home-intro {
+background: url(/images/montage.jpg) no-repeat;
+    margin-bottom: 1em;
+    padding: 1em;
+
+}
+
+.entries.home {
+	padding-top: 30vh;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.video_container iframe {
+    aspect-ratio: 4 / 3;
+    width: 100%;
+}
+
+blockquote {
+	/* font-weight: 100;
+	font-size: 2rem; */
+	max-width: 60%;
+	/* line-height: 1.4; */
+	margin: 0;
+	padding: 0 1rem;
+	border-left: 3px solid var(--accent);
+font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+font-size: 1.3rem;
+}
+
+cite {
+	line-height: 3;
+	text-align: left;
+	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-size: 1.3rem;
+}
+
+cite::before {
+	content: "~ ";
 }

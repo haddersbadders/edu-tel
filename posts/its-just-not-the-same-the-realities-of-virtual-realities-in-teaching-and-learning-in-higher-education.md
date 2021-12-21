@@ -31,14 +31,12 @@ Being at the forefront of how this technology can be used is not about being see
 The reluctance some showed in trying out the new kit worried us a little, but in one taster session as part of our EdD, Dr Liz Chesworth early childhood colleague got very excited by the potential:
 
 > _The 360° VR kit offers an incredibly useful and innovative addition to my teaching, allowing students to immerse themselves completely in different environments, reflect on themselves as educators in that environment and consider critically, how the spaces they create are never neutral_. 
->
-> **Dr Liz Chesworth**
+
+<cite>Dr Liz Chesworth</cite>
 
 Liz worked with Hadrian Cawthorne, the Senior Learning Technologist in the School of Education who led this work to create some new resources. This involved going into a school to to capture 360° images, some of empty classroom spaces, but also some moments of children playing.
 
 You can find these here where you can see that the images are hosted on a platform which enables the teacher to add interactive content.
-
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 <figure class="video_container">
 <iframe src="https://roundme.com/embed/527230/1797188" style="border:0"></iframe>
@@ -58,9 +56,9 @@ Far more powerful than this however, is where the content includes ‘scenes’ 
 
 We used this content with students to give them an experience of data analysis on our EdD programme: 
 
-> _Viewing and using the 360° classroom film was an awakening experience. Never before have I had the opportunity to engage with such an interactive tool at the click of a button! As a teacher and researcher this tool is highly liberating. You have the power to assess what is going on in front, behind, above and around. I was able to tap into deep level analysis, as I followed each child on their individual journey, observing how they interacted with people, resources and the provision. It opened up so many discussions that would have been unreachable had it not have been for the 360° camera._
->
-> **Kat Vallely, EdD Student**
+> Viewing and using the 360° classroom film was an awakening experience. Never before have I had the opportunity to engage with such an interactive tool at the click of a button! As a teacher and researcher this tool is highly liberating. You have the power to assess what is going on in front, behind, above and around. I was able to tap into deep level analysis, as I followed each child on their individual journey, observing how they interacted with people, resources and the provision. It opened up so many discussions that would have been unreachable had it not have been for the 360° camera.
+
+<cite>Kat Vallely, EdD Student</cite>
 
 ![Image of children in the reading corner, captured by the 360 camera.](/images/Screenshot-2021-09-03-135633-1024x490.png)
 

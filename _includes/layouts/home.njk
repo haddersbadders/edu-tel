@@ -5,5 +5,17 @@ section: home
 
 {{ layoutContent | safe }}
 
+<div class="post-header-outer">
+<div class="home-intro post-header"></div>
+<div class="overlay"></div>
+<div class="entries home">
+<h1 class="post-title">Welcome to the EDU-TEL blog</h1>
+<div>
+<p>This website is a collection of posts all about technology enhanced learning, tools and tips. It is run by me, Hadrian Cawthorne, with the help of a few other colleagues from time-to-time and we work at the <a href="https://www.sheffield.ac.uk/education" target="_blank">University of Sheffield's School of Education</a>.</p>
+</div>
+</div>
+</div>
+
+
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
