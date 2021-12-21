@@ -9,7 +9,6 @@ module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  eleventyConfig.addPlugin(require("eleventy-plugin-emoji"));
 
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
