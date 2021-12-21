@@ -20,9 +20,9 @@ You can find the [Netlify GDPR statement here](https://www.netlify.com/gdpr-ccpa
 
 
 
-<blockquote><img src="/images/zappa.png" alt="Frank Zappa" class="rounded right" width="120px">An asked if she had any cookies on there.
-Whaddya mean cookies! no cookies on me!</blockquote>
+<blockquote><img src="/images/zappa.png" alt="Frank Zappa" class="rounded right" width="120px">An asked if she had any [cookies] on there.
+Whaddya mean [cookies]! no [cookies] on me!</blockquote>
 
 <cite>Frank Zappa, Dinah-Moe Humm</cite>
 
-I simply don't use cookies on this site. No analytics, no advertising, just a website for your reading pleasure! 
+I simply don't use cookies on this site. No analytics, no advertising, just a website for your reading pleasure!
