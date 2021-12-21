@@ -30,7 +30,9 @@
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.1.6",
+    "@gerhobbelt/markdown-it-emoji": "^2.0.0-12",
     "clean-css": "^4.2.1",
+    "eleventy-plugin-emoji": "^1.1.0",
     "html-minifier": "^4.0.0",
     "uglify-js": "^3.14.2"
   }
