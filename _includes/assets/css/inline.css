@@ -332,7 +332,11 @@ figure.left {
 	width: 150px;
 	float: left;
 }
-figure.rounded img {
+
+.right {
+	float: right;
+}
+figure.rounded img, img.rounded  {
 	border-radius: 50% 50%;
 }
 
