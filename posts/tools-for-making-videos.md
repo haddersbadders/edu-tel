@@ -3,12 +3,12 @@ title: Tools for Making Videos
 date: 2020-09-11
 author: Hadrian Cawthorne
 tags:
-  - encore
-  - interviewing
-  - kaltura
-  - mobile-video
-  - screencasting
-  - video
+  - Encore
+  - Interviewing
+  - Kaltura
+  - Mobile Video
+  - Screencasting
+  - Video
 coverImage: /images/filming-4371566_1920.jpg
 slug: Video is an incredibly effective format for delivering blended learning. There are lots of reasons for creating video and many different formats to choose from. This post will give you some ideas of easy-to-use tools you can use to make videos.
 ---
@@ -17,9 +17,10 @@ Video is an incredibly effective format for delivering blended learning. There a
 
 This post will give you some ideas of easy-to-use tools you can use to make videos.
 
-![Becky Parry being interviewed](/images/IMG_20191004_143405-1024x768.jpg)
-
-Becky Parry being interviewed
+<figure>
+<img alt="Becky Parry being interviewed" src="/images/IMG_20191004_143405-1024x768.jpg"/>
+<figcaption>Becky Parry being interviewed by Fiona Scott</figcaption>
+</figure>
 
 Video works really well for:
 

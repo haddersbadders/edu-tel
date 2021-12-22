@@ -397,7 +397,7 @@ font-size: 1.3rem;
 }
 
 cite, figcaption {
-	line-height: 3;
+	line-height: 2;
 	text-align: left;
 	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
 	font-size: 1.3rem;
@@ -407,12 +407,30 @@ cite::before {
 	content: "~ ";
 }
 
+figcaption {
+	line-height: 2;
+	font-size: 1em;
+}
 
+.tag_cloud {
+	max-width: 60%;
+	margin: 0 auto;
+	text-align: center;
+			background: #ffffff8c;
+			padding: 1em;
+			border-radius: 0.2em;
+}
+
+.tag_cloud  span::after {
+content: " // " ;
+color: #bbb;
+}
 @media (max-width: 768px) {
 	article h3, h1.post-title {
 		font-size: 2.2rem;
 			text-align: center;
 			line-height: 1.3;
+
 	}
 
 	.article-inner {

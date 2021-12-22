@@ -3,8 +3,7 @@ title: Optimising PowerPoint files
 date: 2021-04-29T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
-  - blended-learning
-  - tips
+  - Blended Learning
 coverImage: /images/press-1332506_1280.jpg
 slug: If you use images and other media in your PowerPoints, they can grow quite large. This post will show you how to optimise your PowerPoint files.
 ---

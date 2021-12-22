@@ -3,10 +3,9 @@ title: How to Embed media in Blackboard
 date: 2016-09-26T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
-  - embed
-  - media
-  - blackboard
-  - video
+  - Embedding
+  - Blackboard
+  - Video
 coverImage: /images/embed-BB.jpg
 alt: laptop showing Blackboard editing
 slug: You can embed media from lots of places like Kaltura, YouTube, Twitter, and more into your Blackboard content.

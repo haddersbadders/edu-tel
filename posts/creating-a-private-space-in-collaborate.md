@@ -3,7 +3,7 @@ title: Creating a Private Space in Collaborate
 date: 2020-08-20T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
-  - blackboard
+  - Blackboard
 coverImage: /images/padlock-428549_1280.jpg
 alt: an old rusty padlock
 slug: You can use the Course Room in Blackboard Collaborate to provide a private space for your student meetings or tutorials. Each Blackboard site has a Collaborate Course Room. The Course Room is permanently open and can be accessed by you and your students at any time.

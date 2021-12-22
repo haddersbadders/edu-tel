@@ -49,6 +49,17 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
+  eleventyConfig.addCollection("tagsList", function(collectionApi) {
+        const tagsList = new Set();
+        collectionApi.getAll().map( item => {
+            if (item.data.tags) { // handle pages that don't have tags
+                item.data.tags.map( tag => tagsList.add(tag))
+            }
+        });
+        return tagsList;
+    });
+    
+
   // Add support for maintenance-free post authors
   // Adds an authors collection using the author key in our post frontmatter
   // Thanks to @pdehaan: https://github.com/pdehaan

@@ -3,7 +3,7 @@ title: Making a static site using 11ty
 date: 2021-12-17
 slug: This is how I made a site using the static website framework, Eleventy (or 11ty!)
 tags:
-  - web development
+  - Web Development
 coverImage: /images/angry-g90bfc6ecb_1280.jpg
 author: Hadrian Cawthorne
 authorImage: /images/hadrian.jpg

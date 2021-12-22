@@ -2,7 +2,8 @@
 title: Virtual Reality in Education
 date: 2020-08-13T00:00:00.000Z
 tags:
-  - vr
+  - VR
+  - 360°
 coverImage: /images/augmented-reality-3468596_1920.jpg
 slug: In the School of Education, we've started to explore the use of Virtual Reality (VR) in teaching and learning. Here are some examples.
 ---

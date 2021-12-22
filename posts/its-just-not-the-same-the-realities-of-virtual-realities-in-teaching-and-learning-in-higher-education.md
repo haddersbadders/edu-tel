@@ -4,7 +4,7 @@ date: 2021-08-26T00:00:00.000Z
 author: Becky Parry
 tags:
   - 360°
-  - innovation
+  - Innovation
   - VR
 coverImage: /images/Broomhall_tinyplanet.jpg
 slug: When we first proposed to colleagues that we could use virtual reality in our higher education teaching, it is fair to say there was some healthy scepticism. Some colleagues had early experiences of VR headsets and worried about feeling sick. Others couldn’t see how it might relate to their work.
@@ -60,9 +60,10 @@ We used this content with students to give them an experience of data analysis o
 
 <cite>Kat Vallely, EdD Student</cite>
 
-![Image of children in the reading corner, captured by the 360 camera.](/images/Screenshot-2021-09-03-135633-1024x490.png)
-
-Image of children in the reading corner, captured by the 360 camera.
+<figure>
+<img alt="Image of children in the reading corner, captured by the 360 camera" src="/images/Screenshot-2021-09-03-135633-1024x490.png" />
+<figcaption>Image of children in the reading corner, captured by the 360 camera.</figcaption>
+</figure>
 
 This sort of experience doesn’t have to be accessed via a headset either, there are some advantages in terms of immersion to the headset, but we use web hosting so the footage can be accessed via a web link. 
 

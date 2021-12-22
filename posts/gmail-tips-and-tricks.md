@@ -2,9 +2,7 @@
 title: Gmail tips and tricks
 date: 2021-02-17T00:00:00.000Z
 tags:
-  - g-suite
-  - tips
-  - gmail
+  - Google Apps
 coverImage: /images/post-letter-2828146_1920.jpg
 slug: We use a lot of technology at work so I've put together some tips, tricks and hacks that might save you some time or just make work a bit simpler. This post focusses on Gmail and explores some of the tricks you can use there. I don't promise to revolutionise your working day, but if you can find at least one of these hacks useful, then that's progress! There are loads of hidden features and tricks inside Gmail. Here are just a few.
 ---

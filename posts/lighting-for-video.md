@@ -3,8 +3,8 @@ title: Lighting for Video
 date: 2020-08-17T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
-  - lighting
-  - video
+  - Lighting
+  - Video
 coverImage: /images/IMG_20200817_142329-scaled.jpg
 slug: If you're filming yourself on a webcam or any camera, it's important to get your lighting right. Here are a few handy tips to help you.
 ---
