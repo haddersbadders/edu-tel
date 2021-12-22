@@ -30,14 +30,11 @@ You can see Windows Terminal below. It looks a bit like MS DOS, but it isn't!
 
 If you look at the commands I've written in Terminal above, I've **changed directory** (cd) to my Desktop, then I've **made a new folder/directory** (mkdir)  called *webvr_demo*. This saved me from having to use the mouse, right clicking etc. Just think of the effort saved there, my mouse is like soooo heavy 😆
 
-To change directory:
-
-```
+```shell
+# To change directory
 cd .\Desktop\  
-```
- To make directory:
- 
- ```
+
+ #  To make directory
  mkdir webvr_demo
  ```
 
@@ -128,16 +125,16 @@ I'm on Windows 10, so I'm going to switch to Ubuntu Terminal as this is what I'm
 
 Installing nodejs on Ubuntu is very straightforward:
 
-```
+```shell
+# update installation repositories
 sudo apt update
-```
 
-```
+# install Node JS
 sudo apt install nodejs
 ```
 
 Then once that's installed, to add npm:
-```
+```shell
 sudo apt install npm
 ```
 
@@ -231,12 +228,12 @@ Oh no! 😧 Don't worry, we just need to install a-frame watcher to allow the br
  Instructions are in the link above, but here too:
 
  In terminal, do
- ```
+ ```shell
  sudo npm install -g aframe-watcher
  ```
 
  Then launch aframe-watcher:
- ```
+ ```shell
  aframe-watcher
  ```
 
