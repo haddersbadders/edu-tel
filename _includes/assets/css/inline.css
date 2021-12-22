@@ -396,7 +396,7 @@ font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roma
 font-size: 1.3rem;
 }
 
-cite {
+cite, figcaption {
 	line-height: 3;
 	text-align: left;
 	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
