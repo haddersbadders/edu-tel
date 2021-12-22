@@ -3,11 +3,39 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+   eleventyConfig.addPlugin(syntaxHighlight, {
+
+     // Change which Eleventy template formats use syntax highlighters
+    templateFormats: ["njk", "md"], // default
+
+    // e.g. Use syntax highlighters in njk and md Eleventy templates (not liquid)
+    // templateFormats: ["njk", "md"],
+
+
+
+    // Added in 3.0, set to true to always wrap lines in `<span class="highlight-line">`
+    // The default (false) only wraps when line numbers are passed in.
+    alwaysWrapLineHighlights: true,
+
+    // Added in 3.0.2, set to false to opt-out of pre-highlight removal of leading
+    // and trailing whitespace
+    trim: true,
+
+    // Added in 3.0.4, change the separator between lines (you may want "\n")
+    lineSeparator: "<br>",
+
+    // Added in 3.1.1, add HTML attributes to the <pre> or <code> tags
+    preAttributes: {
+      tabindex: 0
+    },
+    codeAttributes: {},
+   });
 
 
 

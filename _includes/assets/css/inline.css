@@ -18,11 +18,11 @@ body {
 }
 
 body {
-	display: grid;
-	height: 100vh;
-	grid-template-rows: auto 1fr auto;
+	/* display: grid; */
+	/* height: 100vh; */
+	/* grid-template-rows: auto 1fr auto; */
 	background-color: var(--background);
-	overflow-x: hidden;
+	/* overflow-x: hidden; */
 }
 
 article {
@@ -43,11 +43,21 @@ code {
 	line-height: 1.5;
 }
 
-code {
+/* code {
 	background: #d0d0d0;
 	padding: 2px;
 	border: 1px solid #b0b0b0;
-}
+} */
+
+/* code,
+pre  code,
+p  code {
+
+  word-wrap: break-word;
+  box-decoration-break: clone;
+  padding: .1rem .3rem .2rem;
+  border-radius: .2rem;
+} */
 
 a[href],
 a[href]:visited {
@@ -80,21 +90,14 @@ main > article :first-child {
 }
 
 pre {
-	font-size: 14px;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	-moz-tab-size: 2;
-	tab-size: 2;
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
 	padding: 1em;
-	margin: .5em 0;
+	    margin: 0.5em 0;
+	    overflow: auto;
+	    border-radius: 0.3em;
+			background: #000;
+			color: #fff;
 }
+ #to make directory
 
 /* Header Logo (style as h2) */
 header, footer {
@@ -413,7 +416,7 @@ cite::before {
 	}
 
 	.article-inner {
-		max-width: 90%;
+		max-width: 95%;
 		margin: 1rem auto;
 	}
 p.slug {
@@ -436,7 +439,9 @@ padding-right: 10%;
 }
 blockquote {
 	max-width: 95%;
+}
 
+pre {
 
 }
 }
