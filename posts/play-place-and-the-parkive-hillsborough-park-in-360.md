@@ -32,9 +32,8 @@ It was so lovely to see a group of colleagues and be out and about and we were q
 <figure class="video_container">
 <iframe src="https://haddersbadders.github.io/Park_VR_App/gardenpagoda.html" style="border:0">
 </iframe>
+<figcaption>Above: The secret garden</figcaption>
 </figure>
-
-_Above: The secret garden_
 
 For hosting the images this time, we [used Google Photos](https://photos.app.goo.gl/HdYWjcnPy2YDfVEe6) which enabled the students to look at the images from many perspectives and then comment on them. It’s not as curated as the more interactive platforms but it means you can quite quickly create a digital resource which is simple to access and also duplicate for different purposes. Aneesh used the 360 film and images to encourage students to reflect on theories around childhood and space, the idea of the child in nature, and how digital technologies can bring us to those spaces in new and different ways through 360° and immersive technology:
 
