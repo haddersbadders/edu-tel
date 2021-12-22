@@ -15,9 +15,10 @@ The School of Education has undertaken some internationally renowned studies of 
 
 We really wanted to enable students to reflect on the way the design of urban parks shape children’s experiences of play. We chose Hillsborough Park in S6 because it was local to most of us and we had our own memories to draw on when thinking about where to film.
 
-![Hadrian Cawthorne showing Dr. Sabine Little the 360 camera app](/images/IMG_20201016_130516-3.jpg)
-
-Hadrian Cawthorne showing Dr Sabine Little the 360 camera app, with Dr Aneesh Barai and Dr Nozomi Uematsu
+<figure>
+<img src="/images/IMG_20201016_130516-3.jpg" alt="Hadrian Cawthorne showing Dr. Sabine Little the 360 camera app" />
+<figcaption>Hadrian Cawthorne showing Dr Sabine Little the 360 camera app, with Dr Aneesh Barai and Dr Nozomi Uematsu<figcaption>
+</figure>
 
 Our Senior Learning Technologist Hadrian Cawthorne guided us in positioning the cameras and tripods. Once you set up, it’s a bit like that moment when you take a photo with a camera on timer, except that the camera is activated from an app on your mobile phone and you move out of shot rather than into it. Hadrian commented:
 
