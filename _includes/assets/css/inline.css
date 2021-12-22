@@ -441,7 +441,7 @@ blockquote {
 	max-width: 95%;
 }
 
-pre {
-
+figure.featured_image {
+    max-width: 100%;
 }
 }

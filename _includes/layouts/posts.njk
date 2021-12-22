@@ -3,15 +3,9 @@ layout: layouts/base.njk
 section: posts
 permalink: /blog/index.html
 ---
-<article class="page">
-  <div class="article-inner">
 
 
 {{ layoutContent | safe }}
 
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
-
-</div>
-
-</article>
