@@ -28,7 +28,9 @@ I've been toying with static website builders for a while now. I first cut my te
 
 Then a few years ago, I stumbled on *static website generators*. I played with [Ruby-based Jekyll](https://jekyllrb.com/) and a few others and recently got interested in [Eleventy](https://www.11ty.dev/) - I just found it's name quiet funny and reminded me of The League of Gentlemen's Tubbs:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNJgy6j9gas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure  class="video_container">
+<iframe src="https://www.youtube.com/embed/BNJgy6j9gas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## ~~Twelvety~~ Eleventy
 

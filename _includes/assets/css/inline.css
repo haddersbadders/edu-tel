@@ -30,7 +30,7 @@ article {
 }
 
 .article-inner {
-	max-width: 60rem;
+	max-width: 60%;
 	margin: 4rem auto;
 	border-bottom: 1px solid #cfcfcf;
 	margin-bottom: 1em;
@@ -100,18 +100,32 @@ pre {
 header, footer {
 	background: white;
 }
-header > em {
+header > h1 {
 	display: block;
-	font-size: 2em;
-	margin: .67em 0;
+	font-size: 2.5em;
+	margin: .25em auto;
 	font-weight: bold;
 	font-style: normal;
+	text-align: center;
+	max-width: 60rem;
+
 }
 
 /* Header Nav */
+
+header nav {
+	text-align: center;
+}
 header nav ul {
 	padding: 0;
 	list-style: none;
+	max-width: 50%;
+	margin: 0 auto;
+	display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+
 }
 
 header nav ul :first-child {
@@ -217,12 +231,11 @@ button {
 }
 
 /* more stuff */
-
-article h3, h1.post-title {
-	font-size: 4rem;
-    text-align: center;
-    line-height: 4.3rem;
-}
+	article h3, h1.post-title {
+		font-size: 4rem;
+	    text-align: center;
+	    line-height: 4.3rem;
+	}
 
 figure.featured_image {
 max-width: 90%;
@@ -256,35 +269,26 @@ margin: 1em auto;
 font-size: 1.3rem;
 }
 
-header {
-
-	padding: 0 20rem;
-}
 
 header.site-header a, header.site-header a:visited  {
 
 color: black;
 }
+
 .post-header {
 	position: absolute;
 	    top: 0;
 	    left: 0;
-	    width: 100vw;
+	    width: 100%;
 	    height: 90vh;
 			background-attachment: fixed;
 			background-repeat: no-repeat;
 			background-size: cover;
+			    background-position: center;
 			z-index: 0;
 }
 
-header.site-header {
-	/* position: absolute;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	z-index: 5; */
-	height: 8rem;
-}
+
 .entries {
 	z-index: 10;
 	    position: relative;
@@ -308,7 +312,7 @@ header.site-header {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100vw;
+	width: 100%;
 	height: 90vh;
 }
 
@@ -334,6 +338,10 @@ footer {
     padding: 2rem;
 
 }
+
+figure {
+	margin: 0;
+}
 figure.left {
 	width: 150px;
 	float: left;
@@ -351,9 +359,13 @@ figure.rounded img, img.rounded  {
 }
 
 .home-intro {
-background: url(/images/montage.jpg) no-repeat;
+background: url(/images/montage.jpg);
     margin-bottom: 1em;
     padding: 1em;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-size: cover;
+				background-position: center;
 
 }
 
@@ -361,6 +373,7 @@ background: url(/images/montage.jpg) no-repeat;
 	padding-top: 30vh;
     padding-left: 20%;
     padding-right: 20%;
+
 }
 
 .video_container iframe {
@@ -389,4 +402,41 @@ cite {
 
 cite::before {
 	content: "~ ";
+}
+
+
+@media (max-width: 768px) {
+	article h3, h1.post-title {
+		font-size: 2.2rem;
+			text-align: center;
+			line-height: 1.3;
+	}
+
+	.article-inner {
+		max-width: 90%;
+		margin: 1rem auto;
+	}
+p.slug {
+	max-width: 100%;
+}
+article h2 {
+	font-size: 2em;
+}
+
+.entries.home {
+	font-size: 1em;
+	padding-top: 1em;
+	padding-left: 10%;
+padding-right: 10%;
+}
+
+.entries {
+	padding: 20vh 1em 0 1em;
+
+}
+blockquote {
+	max-width: 95%;
+
+
+}
 }

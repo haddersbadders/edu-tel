@@ -20,6 +20,7 @@ There are a few tools that you'll need:
 And that's it, really! The rest is done in either the code you write or by installing packages with Terminal*.
 
 ## *So what is Terminal?
+
 It's a command-line interface that allows you to do stuff on your computer without using your graphical interface. I like to think of it as "pure" computing (or old-fashioned computing!).
 
 You can see Windows Terminal below. It looks a bit like MS DOS, but it isn't!
