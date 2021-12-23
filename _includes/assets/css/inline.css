@@ -425,6 +425,18 @@ figcaption {
 content: " // " ;
 color: #bbb;
 }
+
+h1.tags {
+	text-align: center;
+	background: var(--accent);
+	color: white;
+	padding: 0.5em;
+}
+
+nav.tags {
+	max-width: 60%;
+    margin: 0 auto;
+}
 @media (max-width: 768px) {
 	article h3, h1.post-title {
 		font-size: 2.2rem;
@@ -461,5 +473,9 @@ blockquote {
 
 figure.featured_image {
     max-width: 100%;
+}
+nav.tags {
+	max-width: 96%;
+    margin: 0 auto;
 }
 }
