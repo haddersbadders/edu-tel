@@ -42,6 +42,8 @@ You can find these here where you can see that the images are hosted on a platfo
 <iframe allowfullscreen="yes" allowvr ="yes" frameborder="0" height="550px" scrolling="no" width="100%" src="https://wvr.li/b1h1e1"></iframe>
 </figure>
 
+[View the experience in full-screen here](https://wvr.li/b1h1e1)
+
 Now, of course, this is not the same as being in the classroom but the differences are important.
 
 Firstly, you can enter a classroom, but the classroom is not changed by your presence - you are invisible. You are not something else for the teacher to worry about and you can ‘walk about’ freely.
