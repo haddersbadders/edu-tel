@@ -39,7 +39,7 @@ Liz worked with Hadrian Cawthorne, the Senior Learning Technologist in the Schoo
 You can find these here where you can see that the images are hosted on a platform which enables the teacher to add interactive content.
 
 <figure class="video_container">
-<iframe src="https://roundme.com/embed/527230/1797188" style="border:0"></iframe>
+<iframe allowfullscreen="yes" allowvr ="yes" frameborder="0" height="550px" scrolling="no" width="100%" src="https://wvr.li/b1h1e1"></iframe>
 </figure>
 
 Now, of course, this is not the same as being in the classroom but the differences are important.
