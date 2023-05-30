@@ -6,7 +6,7 @@ tags:
   - Virtual Reality
 coverImage: /images/VRexhibit.png
 alt: VR Environment
-slug: I wanted to explore using WondaVR to create a virtual exhibition space for students on the EDU61004 Media Making and Creativity module. This is a short post explaining what I did.
+slug: I wanted to explore using WondaVR to create a virtual exhibition space for students on the EDU61004 Media Making and Creativity module. Read on to hear about what I did, what went well and what didn't go so well! 
 ---
 
 WondaVR is the University of Sheffield's 360° media and VR hosting platform. Primarily, WondaVR allows you to create immersive virtual reality experiences using a combination of 360° images and video and augment these with audio, text, image and video annotations. 
@@ -27,6 +27,8 @@ I wanted a way that students could showcase their work and at the same time lear
 I wanted this to be a collaborative project where students would co-create the exhibition, but were restricted by the platform only allowing one person to edit at a time.  Instead we devised a collaborative session where students could collate all their media files (using Google Spaces) and discuss where things should go within the space. Students took it in turn to have a go at editing. 
 
 You can [explore the virtual exhibition here](https://wvr.li/5jm370).
+
+As you can see, it worked really well! 
 
 You can move around the exhibition using the WASD keys to go forward-left-back-right respectively. There are a variety of media in the exhibition - images, text, videos and even a 3D model of a Pikachu!
 
