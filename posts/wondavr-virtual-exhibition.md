@@ -32,8 +32,8 @@ As you can see, it worked really well!
 
 You can move around the exhibition using the WASD keys to go forward-left-back-right respectively. There are a variety of media in the exhibition - images, text, videos and even a 3D model of a Pikachu!
 
-# First reflections
-One aspect I wanted to improve on was the capability for students to collaborate right within WondaVR - something that didn't seem possible given the main editing interface of WondaVR doesn't allow this. It was suggested that I try letting students use the exhibition space as end-users but with multi-user mode enabled. This would allow students to treat the space as a "virtual meeting space" and add and arrange media within it, together. I tried this and discovered a few caveats:
+# First reflections and improvements
+One aspect I wanted to improve on was the capability for students to collaborate right within WondaVR - something that didn't seem possible given the main editing interface of WondaVR doesn't allow this. It was suggested that I try letting students use the exhibition space as end-users but with multi-user mode enabled. This would allow students to treat the space as a "virtual meeting space" and add and arrange media within it, together.  I tried this in a recent session with a new cohort of students and discovered a few caveats:
 
 - media can't be uploaded. Media needs to be pre-uploaded in editing mode beforehand, then students are able to add and move media around
 - Media can be moved around the space, but can't be "snapped" to the wall - this is a feature of edit mode 
