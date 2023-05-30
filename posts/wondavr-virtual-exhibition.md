@@ -19,7 +19,8 @@ As well as the 360° image and video modes, WondaVR can also be used to create 3
 As part of the WondaVR pilot in 2022, Dr. Becky Parry and I wanted to explore using WondaVR to create a virtual exhibition space for students on the EDU61004 Media Making and Creativity module (within the [MA in Digital Literacies, Culture and Education](https://www.sheffield.ac.uk/postgraduate/taught/courses/2023/digital-literacies-culture-and-education-ma)).
 
 In this module, students explore the different ways children can use technology to be creative in the classroom. Each week students explore a different technology and create something with it - examples are videos, stop-frame animation, avatars, posters etc.
-![WondaVR editing interface](/images/wvredit.png)
+
+<figure><img src="/images/wvredit.png" at="The WondaVR editing interface" /><figcaption>the WondaVR editing interface</figcaption></figure>
 
 We wanted a way that students could showcase their work and at the same time learn about authoring VR experiences themselves. 
 
