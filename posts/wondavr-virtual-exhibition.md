@@ -50,6 +50,8 @@ Technically, this allowed collaboration, but seemed limiting. Students were toge
 
 But did we really need the platform to be collaborative afterall? Especially when students were all in a room together! Also the caveats above proved a bit stifling to the workflow.
 
+<figure><img src="/images/multiuserWonda.png" at="The WondaVR multi-user mode media picker" /><figcaption>the media picker in WondaVR multi-user mode</figcaption></figure>
+
 # Further reflections and improvements
 At the moment, WondaVR isn't a collaborative authoring environment in itself. This isn't to say that we can't collaborate on a WondaVR project, but the collaborative part can be done elsewhere e.g. on paper, whiteboard, Miro boards etc. Collaboration is about working together,discussing, planning something, and if we need to use technology to help with this, there are plenty of tools available. 
 
