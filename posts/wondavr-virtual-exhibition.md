@@ -4,6 +4,10 @@ date: 2023-05-30T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
   - Virtual Reality
+  - VR
+  - WebVR
+  - 360°
+  - WondaVR
 coverImage: /images/VRexhibit.png
 alt: VR Environment
 slug: Exploring using WondaVR to create a virtual exhibition space for students on the EDU61004 Media Making and Creativity module. 
