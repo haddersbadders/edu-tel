@@ -254,4 +254,4 @@ You can see that each object has an ID for watcher to latch onto. The ID name is
 
 When saving in a-frame's inspector, keep an eye on the watcher terminal as it will ask you to allow the edits - just choose yes!
 
-That's it! 🎉 There's more to come soon on a-frame...
+That's it! 🎉
