@@ -10,25 +10,27 @@ tags:
   - WondaVR
 coverImage: /images/VRexhibit.png
 alt: VR Environment
-slug: Exploring using WondaVR to create a virtual exhibition space for students on the EDU61004 Media Making and Creativity module. 
+slug: Exploring using WondaVR to create a virtual exhibition space with students on the EDU61004 Media Making and Creativity module. 
 ---
 
 WondaVR is the University of Sheffield's 360° media and VR hosting platform. Primarily, WondaVR allows you to create immersive virtual reality experiences using a combination of 360° images and video and augment these with audio, text, image and video annotations. 
 
-360° images and videos can be easily captured using a 360 camera and immersive experiences be easily authored in the simple-to-use WondaVR platform, right within your web browser. You can [read more about 360 media and the WondaVR platform on the Digital Learning web pages](https://students.sheffield.ac.uk/digital-learning/360). 
+360° images and videos can be easily captured using a 360° camera and immersive experiences can be easily authored in within your web browser using the WondaVR platform. You can [read more about 360 media and the WondaVR platform on the Digital Learning web pages](https://students.sheffield.ac.uk/digital-learning/360). 
 
-As well as the 360° image and video modes, WondaVR can also be used to create 3D virtual environments where the user can move around a space and interact with objects within that space. This is extended further by a multi-user mode where multiple people can visit a virtual space and interact with each other via text chat and voice - much like a virtual meeting space. 
+You can also see [my examples of 360° photography and how they can be used in WondaVR](https://wvr.li/dd4tu1). 
+
+As well as the 360° image and video modes, WondaVR can also be used to create 3D virtual environments where the user can move around a space and interact with objects in that space. This is extended further by a multi-user mode where multiple people can visit a virtual space and interact with each other via text chat and voice - much like a virtual meeting space. 
 
 # Building a virtual exhibition
-As part of the WondaVR pilot in 2022, I wanted to explore using WondaVR to create a virtual exhibition space for students on the EDU61004 Media Making and Creativity module (within the [MA in Digital Literacies, Culture and Education](https://www.sheffield.ac.uk/postgraduate/taught/courses/2023/digital-literacies-culture-and-education-ma)).
+As part of the WondaVR pilot in 2022, I wanted to explore using WondaVR to create a virtual exhibition space with students on the EDU61004 Media Making and Creativity module (part of the [MA in Digital Literacies, Culture and Education](https://www.sheffield.ac.uk/postgraduate/taught/courses/2023/digital-literacies-culture-and-education-ma)).
 
 In this module, students explore the different ways children can use technology to be creative in the classroom. Each week students explore a different technology and create something with it - examples are videos, stop-frame animation, avatars, posters etc.
 
+I wanted students to be able to showcase their work and at the same time learn about authoring VR experiences themselves. 
+
 <figure><img src="/images/wvredit.png" at="The WondaVR editing interface" /><figcaption>the WondaVR editing interface</figcaption></figure>
 
-I wanted a way that students could showcase their work and at the same time learn about authoring VR experiences themselves. 
-
-I wanted this to be a collaborative project where students would co-create the exhibition, but were restricted by the platform only allowing one person to edit at a time.  Instead we devised a collaborative session where students could collate all their media files (using Google Spaces) and discuss where things should go within the space. Students took it in turn to have a go at editing. 
+I ran a collaborative session where students co-created their VR exhibition. In the session, students used Google Drive to collate all their media files and dicussed where things should go within the space. We were slightly restricted in that WondaVR only allows one person to edit a project at a time, so students took it in turn to have a go at editing. 
 
 You can [explore the virtual exhibition here](https://wvr.li/5jm370).
 
