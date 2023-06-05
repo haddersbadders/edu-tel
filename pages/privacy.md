@@ -20,7 +20,7 @@ You can find the [Netlify GDPR statement here](https://www.netlify.com/gdpr-ccpa
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cookie_Monster_cookie%2C_Winschoten_%282020%29_01.jpg/640px-Cookie_Monster_cookie%2C_Winschoten_%282020%29_01.jpg" alt="A cookie shaped like Cookie Monster" class="rounded left">
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cookie_Monster_cookie%2C_Winschoten_%282020%29_01.jpg/640px-Cookie_Monster_cookie%2C_Winschoten_%282020%29_01.jpg" alt="A cookie shaped like Cookie Monster" class="rounded left"><figcaption>Donald Trung Quoc Don (Chữ Hán: 徵國單) - <a href="https://commons.m.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia">Wikimedia Commons</a></figcaption></figure>
 
 
 I simply don't use cookies on this site. No analytics, no advertising, just a website for your reading pleasure!
