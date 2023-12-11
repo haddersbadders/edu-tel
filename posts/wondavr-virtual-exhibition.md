@@ -13,24 +13,24 @@ alt: VR Environment
 slug: Exploring using WondaVR to create a virtual exhibition space with students on the EDU61004 Media Making and Creativity module. 
 ---
 
-WondaVR is the University of Sheffield's 360° media and VR hosting platform. Primarily, WondaVR allows you to create immersive virtual reality experiences using a combination of 360° images and video; and augment these with audio, text, image and video annotations. 
+WondaVR is the University of Sheffield's 360° media and VR hosting platform. WondaVR allows you to create immersive virtual reality experiences using a combination of 360° images and video and augment these scenes with images, videos, audio and text annotations. 
 
-360° images and videos can be easily captured using a 360° camera and immersive experiences can be easily authored in within your web browser using the WondaVR platform. You can [read more about 360 media and the WondaVR platform on the Digital Learning web pages](https://students.sheffield.ac.uk/digital-learning/360). 
+360° images and videos can be captured using a 360° camera and immersive experiences can be easily authored in within your web browser using the WondaVR platform. You can [read more about 360 media and the WondaVR platform on the Digital Learning web pages](https://students.sheffield.ac.uk/digital-learning/360). 
 
 You can also see [my examples of 360° photography and how they can be used in WondaVR](https://wvr.li/dd4tu1). 
 
-As well as the 360° image and video modes, WondaVR can also be used to create 3D virtual environments where the user can move around a space and interact with objects in that space. This is extended further by a multi-user mode where multiple people can visit a virtual space and interact with each other via text chat and voice - much like a virtual meeting space. 
+As well as the 360° image and video modes, WondaVR can also be used to create 3D virtual environments where the user can move around a space and interact with objects in that space. 
 
 # Building a virtual exhibition
 As part of the WondaVR pilot in 2022, I wanted to explore using WondaVR to create a virtual exhibition space with students on the EDU61004 Media Making and Creativity module (part of the [MA in Digital Literacies, Culture and Education](https://www.sheffield.ac.uk/postgraduate/taught/courses/2023/digital-literacies-culture-and-education-ma)).
 
 In this module, students explore the different ways children can use technology to be creative in the classroom. Each week students explore a different technology and create something with it - examples are videos, stop-frame animation, avatars, posters etc.
 
-I wanted students to be able to showcase their work and at the same time learn about authoring VR experiences themselves. 
+I wanted students to be able to showcase their work and at the same time learn about authoring VR experiences. 
 
 <figure><img src="/images/wvredit.png" at="The WondaVR editing interface" /><figcaption>the WondaVR editing interface</figcaption></figure>
 
-I ran a collaborative session where students co-created their VR exhibition. In the session, students used Google Drive to collate all their media files and dicussed where things should go within the space. We were slightly restricted in that WondaVR only allows one person to edit a project at a time, so students took it in turn to have a go at editing. 
+I ran a collaborative session where students co-created their VR exhibition. In the session, students used Google Drive to collate all their media files and dicussed where things should go within the space. We were slightly restricted in that WondaVR only allows one person to edit a project at a time, so students took it in turn to have a go at editing and placing their assets within the 3D room. 
 
 You can [explore the virtual exhibition here](https://wvr.li/5jm370).
 
@@ -38,23 +38,6 @@ As you can see, it worked really well!
 
 You can move around the exhibition using the WASD keys to go forward-left-back-right respectively. There are a variety of media in the exhibition - images, text, videos and even a 3D model of a Pikachu!
 
-# First reflections and improvements
-
-When we repeated the session with the 2023 cohort of students, one thing we wanted to try was to see if students could collaborate right within WondaVR - something that didn't seem possible given the main editing interface in WondaVR only allows a single user at a time. It was suggested that students use the exhibition space as end-users but with multi-user mode enabled. This would allow students to treat the space as a "virtual meeting space" and add and arrange media within it, together.  We tried this with a new cohort of students and discovered a few caveats:
-
-- Media can't be uploaded. Media needs to be pre-uploaded in editing mode beforehand, then students are able to add and arrange media
-- Media can be moved around the space, but can't be "snapped" to the wall - this is a feature only in edit mode 
-- Text annotations can't be added in multi-user mode, only in edit mode
-
-Technically, this allowed collaboration, but seemed limiting. Students were together in a room trying to collaborate using a platform that was new to them, so it didn't seem a natural thing to do. Had they been remote, it may have worked well. 
-
-But did we really need the platform to be collaborative afterall? Especially when students were all in a room together! Also the caveats above proved a bit stifling to the workflow.
-
-<figure><img src="/images/multiuserWonda.png" at="The WondaVR multi-user mode media picker" /><figcaption>the media picker in WondaVR multi-user mode</figcaption></figure>
-
 # Conclusion
-At the moment, WondaVR isn't a collaborative authoring environment in itself. This isn't to say that we can't collaborate on a WondaVR project, but the collaborative part can be done elsewhere e.g. on paper, whiteboard, Miro boards etc. Collaboration is about working together,discussing, planning something, and if we need to use technology to help with this, there are plenty of tools available. 
-
-It's ok that WondaVR isn't truly collaborative! What matters is that it is a really easy-to-use platform that both educators and students can use to create interesting and immersive experiences that can truly enhance both teaching and learning. 
-
+WondaVR provided the students with an introduction to a new and exciting technology and enabled them to work collaboratively to produce their virtual exhibition. This work has sparked lots of ideas around how studetn might use 360-degree photos (as well as AI generated worlds) and videos to produce fully immersive and multi-modal narratives and stories in WondaVR. WondaVR is now part of the University's official toolkit and just released is the AI-powered conversational character builder, which brings an entire new dimension to the creative and educational potential of this tool. 
 
