@@ -1,0 +1,481 @@
+:root {
+	--primary: black;
+	--secondary: white;
+	--background: #F5EFE0;
+	--accent: #8d2c46;
+	--accentfade: rgba(141,44,70,.5);
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+body {
+	/* display: grid; */
+	/* height: 100vh; */
+	/* grid-template-rows: auto 1fr auto; */
+	background-color: var(--background);
+	/* overflow-x: hidden; */
+}
+
+article {
+/* margin-top: 1em; */
+}
+
+.article-inner {
+	max-width: 60%;
+	margin: 1rem auto;
+	border-bottom: 1px solid #cfcfcf;
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+}
+
+p,
+pre,
+code {
+	line-height: 1.5;
+}
+
+/* code {
+	background: #d0d0d0;
+	padding: 2px;
+	border: 1px solid #b0b0b0;
+} */
+
+/* code,
+pre  code,
+p  code {
+
+  word-wrap: break-word;
+  box-decoration-break: clone;
+  padding: .1rem .3rem .2rem;
+  border-radius: .2rem;
+} */
+
+a[href],
+a[href]:visited {
+	color: var(--accent);
+}
+
+a[href]:not(:hover) {
+	text-decoration: none;
+
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+header,
+/* main, */
+footer {
+	padding: 1em;
+}
+
+main {
+	padding-bottom: 2em;
+}
+
+main :first-child,
+main > article :first-child {
+	/* margin-top: 0; */
+}
+
+pre {
+	padding: 1em;
+	    margin: 0.5em 0;
+	    overflow: auto;
+	    border-radius: 0.3em;
+			background: #000;
+			color: #fff;
+}
+ #to make directory
+
+/* Header Logo (style as h2) */
+header, footer {
+	background: white;
+}
+header > h1 {
+	display: block;
+	font-size: 2.5em;
+	margin: .25em auto;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	max-width: 60rem;
+
+}
+
+/* Header Nav */
+
+header nav {
+	text-align: center;
+}
+header nav ul {
+	padding: 0;
+	list-style: none;
+	max-width: 50%;
+	margin: 0 auto;
+	display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+
+}
+
+header nav ul :first-child {
+	margin-left: 0;
+}
+
+header nav li {
+	display: inline-block;
+	margin: 0 .25em;
+}
+
+header nav li a {
+	padding: .25em .5em;
+	border-radius: .25em;
+}
+
+header nav li a[href]:not(:hover) {
+	text-decoration: none;
+}
+
+header nav li a[data-current="current item"] {
+	background-color: white;
+}
+
+/* Posts List */
+article {
+	/* margin-bottom: 1em;
+	padding-bottom: 1em; */
+	/* border-bottom: 1px solid #6d6d6d; */
+
+}
+
+main > section > article > * {
+
+	margin-bottom: .5em;
+}
+
+/* Post Tags */
+a[rel="tag"],
+a[rel="tag"]:visited {
+	display: inline-block;
+  vertical-align: text-top;
+  text-transform: uppercase;
+	letter-spacing: .1em;
+  font-size: .625em;
+  padding: 0 .5em;
+	line-height: 2em;
+	height: 2em;
+  border: 1px solid var(--secondary);
+	background-color: var(--secondary);
+	color: var(--accent);
+  border-radius: .25em;
+  text-decoration: none;
+	margin: 0 .5em .5em 0;
+}
+
+a[rel="tag"]:hover {
+	border: 1px solid var(--primary);
+	background-color: var(--primary);
+	color: var(--secondary);
+}
+
+a[rel="tag"]:last-child {
+	margin-right: 0;
+}
+
+/* Contact Form */
+form {
+  display: grid;
+	padding: 2em 0;
+}
+
+form label {
+  display: none;
+}
+
+input,
+textarea,
+button {
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 1em;
+	font-size: 1rem;
+	font-family: "Avenir", "Avenir Next", sans-serif;
+}
+
+input,
+textarea {
+	border: 1px solid black;
+}
+
+button {
+	border: 1px solid var(--primary);
+	background-color: var(--primary);
+	color: var(--secondary);
+	cursor: pointer;
+}
+
+@media screen and (min-width:768px) {
+	:root {
+		font-size: 1.1rem;
+	}
+}
+
+/* more stuff */
+	article h3, h1.post-title {
+		font-size: 4rem;
+	    text-align: center;
+	    line-height: 4.3rem;
+	}
+
+figure.featured_image {
+max-width: 90%;
+margin: 0 auto;
+}
+
+.post-meta, .post-meta a {
+	text-align: center;
+	color: #6d6d6d !important;
+}
+
+.post-meta svg * {
+	fill: #6d6d6d;
+}
+
+.post-tags {
+text-align: center;
+padding: 1em;
+}
+article p, article ol, article ul {
+	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-size: 1.3rem;
+}
+article h2 {
+	font-size: 3rem;
+}
+p.slug {
+max-width: 60%;
+margin: 1em auto;
+
+font-size: 1.3rem;
+}
+
+
+header.site-header a, header.site-header a:visited  {
+
+color: black;
+}
+
+.post-header {
+	position: absolute;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: 90vh;
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			background-size: cover;
+			    background-position: center;
+			z-index: 0;
+}
+
+
+.entries {
+	z-index: 10;
+	    position: relative;
+	    padding-top: 40vh;
+	    text-align: center;
+	    color: #fff;
+	    height: 100vh;
+			font-size: 1.4em;
+}
+.entries a {
+	color: #fff !important;
+}
+
+.entries svg * {
+	fill: #fff;
+}
+.overlay {
+	z-index: 2;
+	background: var(--accent);
+	opacity: 0.8;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 90vh;
+}
+
+h1.post-title {
+	font-size: 4.4rem;
+}
+
+main {
+	/* margin-top: 8rem; */
+}
+
+.video_container {
+	position: relative;
+}
+
+.post-header-outer {
+    position: relative;
+}
+
+footer {
+    height: 6rem;
+    text-align: center;
+    padding: 2rem;
+
+}
+
+figure {
+	margin: 0;
+}
+figure.left {
+	width: 150px;
+	float: left;
+}
+
+.right {
+	float: right;
+}
+figure.rounded img, img.rounded  {
+	border-radius: 50% 50%;
+}
+
+.centre {
+	text-align: center;
+}
+
+.home-intro {
+background: url(/images/montage.jpg);
+    margin-bottom: 1em;
+    padding: 1em;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-size: cover;
+				background-position: center;
+
+}
+
+.entries.home {
+	padding-top: 30vh;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+.video_container iframe {
+    aspect-ratio: 4 / 3;
+    width: 100%;
+}
+
+blockquote {
+	/* font-weight: 100;
+	font-size: 2rem; */
+	max-width: 60%;
+	/* line-height: 1.4; */
+	margin: 0;
+	padding: 0 1rem;
+	border-left: 3px solid var(--accent);
+font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+font-size: 1.3rem;
+}
+
+cite, figcaption {
+	line-height: 2;
+	text-align: left;
+	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-size: 1.3rem;
+}
+
+cite::before {
+	content: "~ ";
+}
+
+figcaption {
+	line-height: 2;
+	font-size: 1em;
+}
+
+.tag_cloud {
+	max-width: 60%;
+	margin: 0 auto;
+	text-align: center;
+			background: #ffffff8c;
+			padding: 1em;
+			border-radius: 0.2em;
+}
+
+.tag_cloud  span::after {
+content: " // " ;
+color: #bbb;
+}
+
+h1.tags {
+	text-align: center;
+	background: var(--accent);
+	color: white;
+	padding: 0.5em;
+}
+
+nav.tags {
+	max-width: 60%;
+    margin: 0 auto;
+}
+@media (max-width: 768px) {
+	article h3, h1.post-title {
+		font-size: 2.2rem;
+			text-align: center;
+			line-height: 1.3;
+
+	}
+
+	.article-inner {
+		max-width: 95%;
+		margin: 1rem auto;
+	}
+p.slug {
+	max-width: 100%;
+}
+article h2 {
+	font-size: 2em;
+}
+
+.entries.home {
+	font-size: 1em;
+	padding-top: 1em;
+	padding-left: 10%;
+padding-right: 10%;
+}
+
+.entries {
+	padding: 20vh 1em 0 1em;
+
+}
+blockquote {
+	max-width: 95%;
+}
+
+figure.featured_image {
+    max-width: 100%;
+}
+nav.tags {
+	max-width: 96%;
+    margin: 0 auto;
+}
+}
