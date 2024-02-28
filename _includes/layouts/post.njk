@@ -13,7 +13,7 @@ section: post
 <h1 class="post-title">{{ title }}</h1>
 <div>
   <time datetime="{{ page.date | machineDate }}">
-    <small>{% include 'snippets/authoricon.njk' %} By <a href="/authors/{{ author | slug }}/"> {{ author }}</a> &nbsp; {% include 'snippets/dateicon.njk' %} {{ page.date | readableDate }} </small>
+    <small>{% include 'partials/authoricon.njk' %} By <a href="/authors/{{ author | slug }}/"> {{ author }}</a> &nbsp; {% include 'partials/dateicon.njk' %} {{ page.date | readableDate }} </small>
   </time>
 </div>
 </div>

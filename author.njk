@@ -6,13 +6,10 @@ pagination:
   size: 1
   alias: author
 permalink: "authors/{{ author | slug }}/"
-renderData:
-  author: "{{ author }}"
-  title: "Posts by {{ author }}"
-  metaDescription: "An archive of all posts by the author: {{ author }}."
+
 ---
 
-<h1 class="centre">{{ renderData.title | safe }}</h1>
+<h1 class="tags">Posts written by {{ author }}</h1>
 
 <section>
 
@@ -38,7 +35,7 @@ renderData:
       {% endif %}
 			<p>
 				<time datetime="{{ post.date | machineDate }}">
-					<small>{% include 'snippets/authoricon.njk' %} {{ post.author }} &nbsp;{% include 'snippets/dateicon.njk' %} {{ post.date | readableDate }} </small>
+					<small>{% include 'partials/authoricon.njk' %} {{ post.author }} &nbsp;{% include 'partials/dateicon.njk' %} {{ post.date | readableDate }} </small>
 				</time>
 			</p>
 			{% if post.tags %}

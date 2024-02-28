@@ -16,7 +16,7 @@
 
 			<div class="post-meta">
 				<time datetime="{{ post.date | machineDate }}">
-					<small>{% include 'snippets/authoricon.njk' %} By <a href="/authors/{{ post.data.author | slug }}/"> {{ post.data.author }}</a> &nbsp; {% include 'snippets/dateicon.njk' %} {{ post.date | readableDate }} </small>
+					<small>{% include 'partials/authoricon.njk' %} By <a href="/authors/{{ post.data.author | slug }}/"> {{ post.data.author }}</a> &nbsp; {% include 'partials/dateicon.njk' %} {{ post.date | readableDate }} </small>
 				</time>
 			</div>
 			{% if post.data.tags %}

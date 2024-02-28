@@ -10,12 +10,10 @@ pagination:
     - posts
 permalink: /tags/{{ tag }}/
 layout: layouts/base.njk
-renderData:
-  title: "Tagged “{{ tag }}”"
-  metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
+
 ---
 
-<h1 class="tags">Tagged “{{ tag }}”</h1>
+<h1 class="tags">Tagged with “{{ tag }}”</h1>
 
 {% set postslist = collections[tag] %}
 {% include "components/postslist.njk" %}

@@ -1,5 +1,5 @@
 ---
-title: "'It's just not the same': The realities of virtual realities in teaching and learning in Higher Education"
+title: "'It's just not the same'- The realities of virtual realities in teaching and learning in Higher Education"
 date: 2021-08-26T00:00:00.000Z
 author: Becky Parry
 tags:

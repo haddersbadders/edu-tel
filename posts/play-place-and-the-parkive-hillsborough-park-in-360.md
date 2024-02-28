@@ -1,5 +1,5 @@
 ---
-title: "Play, Place and the Parkive: Hillsborough Park in 360"
+title: "Play, Place and the Parkive - Hillsborough Park in 360"
 date: 2021-09-21T00:00:00.000Z
 author: Becky Parry
 tags:
