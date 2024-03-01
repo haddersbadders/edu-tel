@@ -81,6 +81,8 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
+
+
   eleventyConfig.addFilter("getAuthor", (authors,label) => {
 	let author = authors.filter(a => a.key === label)[0];
 	return author;
@@ -129,7 +131,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/inline.css");
+  eleventyConfig.addPassthroughCopy("./_src/js/");
+  eleventyConfig.addPassthroughCopy("./_src/css/");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
@@ -160,10 +163,10 @@ module.exports = function(eleventyConfig) {
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {
-      input: ".",
+      input: "_src",
       includes: "_includes",
       data: "_data",
-      output: "_site"
+      output: "_dist"
     }
   };
 };
