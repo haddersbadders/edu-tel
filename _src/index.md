@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 0
 ---
  <div class="w3-panel w3-white"> 
- <img src="/images/hadrian.jpg" alt="Hadrian Cawthorne" class="w3-circle w3-image shadow" style="max-width: 10%; float: left; margin: 16px;">
+ <img src="{{ site.authorImg }}" alt="{{ site.author }}" class="w3-circle w3-image shadow" style="max-width: 10%; float: left; margin: 16px;">
  <p>{{ slug }}</p>
 
 </div>

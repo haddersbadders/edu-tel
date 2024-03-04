@@ -3,7 +3,6 @@ title: How to Embed media in Blackboard
 date: 2016-09-26T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
-  - Embedding
   - Blackboard
   - Video
 coverImage: /images/embed-BB.jpg

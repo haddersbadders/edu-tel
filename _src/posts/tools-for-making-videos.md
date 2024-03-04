@@ -4,9 +4,7 @@ date: 2020-09-11
 author: Hadrian Cawthorne
 tags:
   - Encore
-  - Interviewing
   - Kaltura
-  - Mobile Video
   - Screencasting
   - Video
 coverImage: /images/filming-4371566_1920.jpg

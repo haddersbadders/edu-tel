@@ -3,9 +3,7 @@ title: Developing WebVR using A-frame
 date: 2021-12-21
 slug: A-frame is a Javascript WebVR framework. Read how I've set up a development environment to create VR experiences
 tags:
-  - WebVR
   - VR
-  - A-frame
 coverImage: /images/vr1280.jpg
 author: Hadrian Cawthorne
 authorImage: /images/hadrian.jpg

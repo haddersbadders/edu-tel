@@ -4,7 +4,6 @@ date: 2021-02-16T00:00:00.000Z
 author: Hadrian Cawthorne
 tags:
   - Google Apps
-  - Google Calendar
 coverImage: /images/despaired-2261021_1920.jpg
 slug: We use a lot of technology at work so I've put together some tips, tricks and hacks that might save you some time or just make work a bit simpler. This post is all about Google Calendar.
 ---

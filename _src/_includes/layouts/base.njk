@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 </style>
@@ -24,9 +24,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   </div>
     {% block content %}{% endblock %}
   <!-- Footer -->
-  <footer class="w3-black w3-center w3-padding-24">
+  <footer class="w3-white w3-center w3-padding-24 w3-margin-top w3-border-top" >
   <div class="w3-row-padding">
-   <p><a href="https://www.sheffield.ac.uk/" title="The University of Sheffield" target="_blank" class="w3-hover-opacity">University of Sheffield </a></p>
+    {% include 'partials/footer.njk' %}
   </div>
   </footer>
 <!-- End page content -->
