@@ -127,3 +127,8 @@ text-align: center;
   border: 1px dashed white;
   padding: 2px;
 }
+
+.nav-heading {
+  background: var(--accent-color);
+  color: #fff;
+}
