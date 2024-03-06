@@ -8,7 +8,7 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
 
-  
+
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -81,6 +81,8 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
+
+
   eleventyConfig.addFilter("getAuthor", (authors,label) => {
 	let author = authors.filter(a => a.key === label)[0];
 	return author;
@@ -127,9 +129,10 @@ module.exports = function(eleventyConfig) {
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
-  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("./_src/images");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/inline.css");
+  eleventyConfig.addPassthroughCopy("./_src/js/");
+  eleventyConfig.addPassthroughCopy("./_src/css/");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
@@ -147,6 +150,10 @@ module.exports = function(eleventyConfig) {
     .use(markdownItAnchor, opts)
   );
 
+
+
+
+
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
 
@@ -160,10 +167,10 @@ module.exports = function(eleventyConfig) {
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {
-      input: ".",
+      input: "_src",
       includes: "_includes",
       data: "_data",
-      output: "_site"
+      output: "_dist"
     }
   };
 };

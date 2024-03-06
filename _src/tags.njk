@@ -1,0 +1,21 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - post
+    - posts
+    - tagList
+  addAllPagesToCollections: true
+layout: layouts/home.njk
+coverImage: /images/dump_tech.png
+eleventyComputed:
+  title: Some posts about “{{ tag }}”
+permalink: /tags/{{ tag }}/
+---
+
+
+{% set tagslist = collections[ tag ] %}
+{% include "partials/tagslist.njk" %}
