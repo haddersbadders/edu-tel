@@ -1,0 +1,14 @@
+
+{% for post in tagslist | reverse %}
+<div class="w3-container postlist w3-border-bottom">
+      <header>
+      <a href="{{ post.url }}"><h2>{{ post.data.title }}</h2></a> 
+<div class="w3-panel"><i class="fa fa-user"></i> {{ post.data.author }} <br><i class="fa fa-calendar"></i> {{ post.date | readableDate }}</div>
+<img src="{{ post.data.coverImage }}" alt="{{ post.data.alt }}"/>
+</header>
+<div class="w3-panel">
+  <p>{{ post.data.slug }}</p>
+<a class="w3-button" href="{{ post.url }}" >Read more >></a>
+  </div>
+      </div>
+{% endfor %}
