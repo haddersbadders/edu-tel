@@ -14,6 +14,7 @@ eleventyNavigation:
 
 </div>
 
+{% include 'partials/search.njk' %}
 
 {% include "partials/tagCloud.njk" %}
 
