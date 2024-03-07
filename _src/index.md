@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Education Technology
-slug: This website is a collection of posts all about technology enhanced learning, tools and tips. It is run by me, Hadrian Cawthorne, with the help of a few other colleagues from time-to-time and we work at the University of Sheffield's School of Education.
+slug: This website is a collection of posts all about technology enhanced learning, tools and tips. It is run by me, Hadrian Cawthorne, with the help, from time-to-time, of a few other colleagues at the University of Sheffield's School of Education.
 permalink: /
 coverImage: '/images/montage.jpg'
 eleventyNavigation:

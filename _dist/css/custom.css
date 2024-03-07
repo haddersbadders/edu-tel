@@ -17,7 +17,7 @@ a:hover {
 }
 
 a[href], a[href]:visited {
-  color: rgba(141,44,70,1);
+  color: rgb(89 27 43);
 }
 
 
@@ -98,8 +98,8 @@ ul.no-pad {
 
 .overlay {
   z-index: 2;
-  background: rgba(141, 44, 70, 0.7);
-  opacity: .8;
+  background: rgb(89 27 43);
+  opacity: .5;
   position: absolute;
   top: 0;
   left: 0;
@@ -120,17 +120,7 @@ text-align: center;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.stamp {
-  rotate: -5deg;
-  display: inline-block;
-  background: rgba(141,44,70,1);
-  border: 1px dashed white;
-  padding: 2px;
-}
 
-.nav-heading {
-  background: var(--accent-color);
-  color: #fff;
+.centre {
+  text-align: center;
 }
-
-/* src/assets/css/blocks/search.css */
