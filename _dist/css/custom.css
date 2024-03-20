@@ -10,10 +10,12 @@ body {
 
 a:link {
   text-decoration: none;
+  border-bottom: 1px dotted;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: rgb(228, 98, 222);
+  border-bottom: 1px solid;
 }
 
 a[href], a[href]:visited {
@@ -49,6 +51,13 @@ main img {
   max-width: 100%;
 }
 
+.video_container  {
+  position: relative;
+}
+.video_container iframe {
+  aspect-ratio: 4 / 3;
+  width: 100%;
+}
 
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
@@ -124,3 +133,10 @@ text-align: center;
 .centre {
   text-align: center;
 }
+
+
+/* pre {
+  background: black;
+    color: white;
+    padding: 1em;
+} */
