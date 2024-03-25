@@ -25,7 +25,7 @@ To recap, in the basic tutorial we:
 To extend this, I'll cover:
 
 - Adding additional directories for template files, images, CSS, data etc
-- Passthrough for static files that don;t need processing
+- Passthrough, for static files like images and CSS that don't need processing
 - Setting up a script to start the server
 - Defining Nunjucks as the templating engine
 - Adding site data
@@ -270,8 +270,39 @@ Here's the footer
 </footer>
 ```
 
-Now you should have a really basic page. Looking at the elements in Dev tools, you will see the structure as laid out in all the layout and partials files:
+You now have the building blocks of a basic page. 
+
+Looking at the elements in Dev tools, you will see the structure as laid out in all the layout and partials files:
 
 ![screenshot of the basic website showing dev tools and structure](/images/basic_site.png)
 
-More follows...
+## Adding design with CSS
+
+For this section, we are going to connect the [W3.CSS framework](https://www.w3schools.com/w3css/default.asp) as it's quite a simple CSS framework to use.   
+
+All we need to do is link to the W3CSS CSS in the head of our HTML. In `base.html`, add this to `head`:
+
+```html
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+```
+
+`head` should now look like this:
+
+```html
+<head>
+<title>{{ title }} | {{ site.name }}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+```
+
+You should now see the font has changed in your basic page. 
+
+Let's also create a custom CSS file that we can add our own styles to if needed. 
+
+Create a new file `custom.css` inside the directory `_src/css`. Then link that also in `head` after the w3.css:
+
+{% highlight html %}
+<link rel="stylesheet" href="{{ '/css/custom.css' | url }}">
+{% endhighlight %}
