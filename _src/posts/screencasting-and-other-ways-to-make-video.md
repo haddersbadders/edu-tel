@@ -1,6 +1,6 @@
 ---
 title: Screencasting and other ways to make video
-date: 2021-07-07
+date: 2024-05-16
 tags:
   - Video
   - Screencasting
@@ -20,9 +20,7 @@ To make a screencast, you need software capable of recording your screen and sou
 
 Everyone at the University can access Kaltura Capture to make screencasts. It is a free app that accompanies the University's Kaltura media hosting system. You can install the app on your PC or Mac and that will let you record and upload your screencasts, and also submit them for assessment. 
 
-You can find out more about how to install and use Kaltura Capture here:
-
-- [https://www.sheffield.ac.uk/apse/digital/media/capture](https://www.sheffield.ac.uk/apse/digital/media/capture)
+- [You can find out more about how to install and use Kaltura Capture here](https://students.sheffield.ac.uk/digital-learning/kaltura/capture)
 
 Kaltura capture also lets you record your webcam simultaneously. This is good if you want to show your viewers who you are. But ultimately, this is optional, and you can turn your webcam off when recording your screencast.
 
@@ -43,7 +41,13 @@ You can watch my video guide to using Kaltura Capture here:
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/38838661/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_3sa5beij&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ducfbqiq" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 <!-- blank line -->
 
-## Using PowerPoint to record a Video presentation
+## Using Google Slides to record a video presentation
+
+Google slides now has a feature that allows you to turn your presentation into a video. The video below explains how to do this:
+
+<div style="max-width:608px"><div style="position:relative;padding-bottom:66.118421052632%"><iframe id="kaltura_player" type="text/javascript"  src='https://cdnapisec.kaltura.com/p/2103181/embedPlaykitJs/uiconf_id/53345422?iframeembed=true&entry_id=1_2by1hth2&config[provider]={"widgetId":"1_zdr2188g"}&config[playback]={"startTime":0}'  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Create Video Presentations Using Google Slides" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+## Using PowerPoint to record a video presentation
 
 PowerPoint allows you to narrate each slide of your presentation then export your whole thing as a video file. This is good if you want to build up your presentation a slide at a time and take your time to get each slide right.
 
@@ -70,19 +74,14 @@ You can watch my screencast on how to create a video presentation in PowerPoint 
 </figure>
 <!-- blank line -->
 
-## Adobe Spark Video
+The recording will be in Google Drive. If you need to put the video into Kaltura (My Media) you can then download it then upload to Kaltura/My Media.
 
-If you'd like to explore a more visual and creative way of making videos, [Adobe Spark Video](https://spark.adobe.com/sp/) is a good place to start.
+## Adobe Express Video
 
-Spark Video is a web and iPad tool that lets you make a video by creating and narrating slides. For each slide, you can add a background image or video, text and/or icons. You can also narrate each slide.
+If you'd like to explore a more visual and creative way of making videos, you could try [Adobe Express](https://new.express.adobe.com/).
+
+Adobe Express is an online tool that lets you create a variety of media types, including videos and narrated slides. It is extremely flexible and creative and allows you to combine images, AI genrated images, video, text, animation in a fun way.
 
 Spark differs from powerPoint in that you are very limited to how much you add to each slide. You can only have a background image and one or two bits of text. The idea is that Spark allows you to convey your points through meaningful imagery and sparse text in a more creative way.
 
 Spark is very easy to use and quite fun!
-
-You can see how to use Spark Video in my screencast:
-<!-- blank line -->
-<figure class="video_container">
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2103181/sp/210318100/embedIframeJs/uiconf_id/38838661/partner_id/2103181?iframeembed=true&playerId=kaltura_player&entry_id=1_bf8rhfel&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_e6rkyw7c" width="608" height="402" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
-</figure>
-<!-- blank line -->
