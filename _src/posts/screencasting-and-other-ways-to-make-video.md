@@ -82,6 +82,4 @@ If you'd like to explore a more visual and creative way of making videos, you co
 
 Adobe Express is an online tool that lets you create a variety of media types, including videos and narrated slides. It is extremely flexible and creative and allows you to combine images, AI genrated images, video, text, animation in a fun way.
 
-Spark differs from powerPoint in that you are very limited to how much you add to each slide. You can only have a background image and one or two bits of text. The idea is that Spark allows you to convey your points through meaningful imagery and sparse text in a more creative way.
-
-Spark is very easy to use and quite fun!
+Adobe Express is very easy to use and quite fun!
