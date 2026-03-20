@@ -7,6 +7,7 @@ tags:
   - Video
 coverImage: /images/IMG_20200817_142329-scaled.jpg
 slug: If you're filming yourself on a webcam or any camera, it's important to get your lighting right. Here are a few handy tips to help you.
+draft: true
 ---
 
 If you're filming yourself on a webcam or any camera, it's important to get your lighting right.

@@ -9,6 +9,7 @@ tags:
   - Video
 coverImage: /images/filming-4371566_1920.jpg
 slug: Video is an incredibly effective format for delivering blended learning. There are lots of reasons for creating video and many different formats to choose from. This post will give you some ideas of easy-to-use tools you can use to make videos.
+draft: true
 ---
 
 Video is an incredibly effective format for delivering blended learning. There are lots of reasons for creating video and many different formats to choose from.

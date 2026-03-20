@@ -8,6 +8,7 @@ tags:
 coverImage: /images/embed-BB.jpg
 alt: laptop showing Blackboard editing
 slug: You can embed media from lots of places like Kaltura, YouTube, Twitter, and more into your Blackboard content.
+draft: true
 ---
 
 You can embed media from lots of places like Kaltura, YouTube, Twitter, and more into your Blackboard content.

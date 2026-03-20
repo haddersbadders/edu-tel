@@ -7,6 +7,7 @@ tags:
   - Video
 coverImage: /images/speak-238488_1920.jpg
 slug: Voice is a vitally important part of any video. If the sound quality is poor, it can be a distraction for the viewer and make it difficult to generate captions for your video (a crucial part of ensuring your video meets accessibility requirements). This post will give some advice to help you get the best quality sound for your video.
+draft: true
 ---
 
 Voice is a vitally important part of any video. If the sound quality is poor, it can be a distraction for the viewer and make it difficult to generate captions for your video (a crucial part of ensuring your video meets accessibility requirements).

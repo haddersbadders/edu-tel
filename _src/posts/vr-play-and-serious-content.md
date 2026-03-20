@@ -7,6 +7,7 @@ tags:
 coverImage: /images/students-vr.jpg
 alt: students getting started on Traveling While Black. Provided with the students’ permission
 slug: The MA Digital Literacies, Culture and Education has been working to integrate Virtual Reality content into our teaching, such as getting students to critically discuss 360° footage of Hillsborough Park during the pandemic, which Dr Becky Parry wrote about here. Now that the university is open again for face-to-face teaching, I arranged a session around my current VR research for the module "Digital Culture and Childhoods."
+draft: true
 ---
 
 The [MA Digital Literacies, Culture and Education](https://www.sheffield.ac.uk/postgraduate/taught/courses/2022/digital-literacies-culture-and-education-ma) has been working to integrate Virtual Reality content into our teaching, such as getting students to critically discuss 360° footage of Hillsborough Park during the pandemic, which Dr Becky Parry wrote about here. Now that the university is open again for face-to-face teaching, I arranged a session around my current VR research for the module “Digital Culture and Childhoods.”

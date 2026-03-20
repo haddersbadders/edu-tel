@@ -6,6 +6,7 @@ tags:
   - Google Apps
 coverImage: /images/despaired-2261021_1920.jpg
 slug: We use a lot of technology at work so I've put together some tips, tricks and hacks that might save you some time or just make work a bit simpler. This post is all about Google Calendar.
+draft: true
 ---
 
 We use a lot of technology at work so I've put together some tips, tricks and hacks that might save you some time or just make work a bit simpler.
