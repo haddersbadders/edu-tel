@@ -117,17 +117,18 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true
-      });
-      return minified;
-    }
-    return content;
-  });
+eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  // Check if outputPath is a string before calling .indexOf()
+  if (outputPath && typeof outputPath === "string" && outputPath.indexOf(".html") > -1) {
+    let minified = htmlmin.minify(content, {
+      useShortDoctype: true,
+      removeComments: true,
+      collapseWhitespace: true
+    });
+    return minified;
+  }
+  return content;
+});
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
